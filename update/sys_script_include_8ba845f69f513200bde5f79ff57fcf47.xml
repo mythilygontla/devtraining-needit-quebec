@@ -3,6 +3,7 @@
         <access>package_private</access>
         <active>true</active>
         <api_name>x_58872_needit.validateEmailAddress</api_name>
+        <caller_access/>
         <client_callable>false</client_callable>
         <description/>
         <name>validateEmailAddress</name>
@@ -28,5 +29,6 @@
         <sys_update_name>sys_script_include_8ba845f69f513200bde5f79ff57fcf47</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-03-08 03:42:48</sys_updated_on>
+        <u_location/>
     </sys_script_include>
 </record_update>
